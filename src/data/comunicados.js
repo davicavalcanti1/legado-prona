@@ -1,0 +1,90 @@
+// Documentos oficiais do Diretório Nacional do PRONA (conteúdo fictício — LegadoRP)
+export const DOCUMENTOS = [
+  {
+    id: 'ata-001',
+    tipo: 'ATA',
+    numero: 'ATA Nº 001/2026',
+    data: '12 de janeiro de 2026',
+    orgao: 'Convenção Nacional',
+    titulo: 'Fundação do partido e aprovação do Estatuto Geral',
+    resumo: 'Registra a instalação da Convenção Nacional de fundação do PRONA, a leitura e aprovação, por unanimidade dos presentes, do Estatuto Geral do partido e do seu programa preliminar.',
+    integra: [
+      'Aos doze dias do mês de janeiro de dois mil e vinte e seis, reuniram-se os fundadores do Partido de Reedificação da Ordem Nacional — PRONA, em Convenção Nacional de fundação, devidamente convocada na forma da legislação e das normas partidárias aplicáveis.',
+      'Aberta a sessão, foi apresentada a minuta do Estatuto Geral, lida na íntegra e submetida à deliberação dos convencionais. Após o debate regimental, o texto foi aprovado por unanimidade dos presentes, entrando em vigor na forma de seu Art. 77.',
+      'Em seguida, foi aprovado o programa preliminar do partido, tendo como referências a soberania nacional, a independência econômica e tecnológica, o desenvolvimento científico, a valorização do trabalho e o fortalecimento das instituições republicanas.',
+      'Nada mais havendo a deliberar, foi encerrada a sessão, da qual se lavrou a presente ata, assinada pelos membros da mesa.',
+    ],
+  },
+  {
+    id: 'ata-002',
+    tipo: 'ATA',
+    numero: 'ATA Nº 002/2026',
+    data: '19 de janeiro de 2026',
+    orgao: 'Diretório Nacional',
+    titulo: 'Posse da Comissão Executiva Nacional',
+    resumo: 'Registra a posse dos membros da Comissão Executiva Nacional — Presidente, Vice-Presidente, Secretário-Geral e Tesoureiro — nos termos dos Arts. 25 e 26 do Estatuto.',
+    integra: [
+      'Aos dezenove dias do mês de janeiro de dois mil e vinte e seis, reuniu-se o Diretório Nacional do PRONA para dar posse à Comissão Executiva Nacional, homologada pela Convenção Nacional.',
+      'Tomaram posse os titulares dos cargos de Presidente Nacional, Vice-Presidente Nacional, Secretário-Geral e Tesoureiro Nacional, que firmaram o compromisso de cumprir o Estatuto, o programa partidário e as deliberações dos órgãos competentes.',
+      'Ficou estabelecido que a Comissão Executiva exercerá a administração cotidiana do partido, executando as decisões do Diretório Nacional, na forma do Art. 25 do Estatuto.',
+    ],
+  },
+  {
+    id: 'del-003',
+    tipo: 'DELIBERAÇÃO',
+    numero: 'DELIBERAÇÃO Nº 003/2026',
+    data: '2 de fevereiro de 2026',
+    orgao: 'Diretório Nacional',
+    titulo: 'Calendário de implantação dos diretórios estaduais e municipais',
+    resumo: 'Aprova o calendário oficial de organização dos diretórios estaduais e municipais e autoriza a instalação de comissões provisórias onde ainda não houver diretório constituído.',
+    integra: [
+      'O Diretório Nacional do PRONA, no uso de suas atribuições previstas no Art. 23 do Estatuto, delibera aprovar o calendário oficial de implantação dos órgãos estaduais e municipais do partido.',
+      'Fica autorizada a instalação de comissões provisórias nos municípios e estados onde ainda não houver diretório constituído, nos termos do Art. 37 do Estatuto e da legislação aplicável.',
+      'Os Diretórios Estaduais deverão promover formação política, acompanhar a atuação dos filiados e apresentar relatórios periódicos à Direção Nacional, conforme o Art. 33.',
+    ],
+  },
+  {
+    id: 'ata-004',
+    tipo: 'ATA',
+    numero: 'ATA Nº 004/2026',
+    data: '16 de fevereiro de 2026',
+    orgao: 'Diretório Nacional',
+    titulo: 'Instalação do Conselho Fiscal e do Conselho de Ética e Disciplina',
+    resumo: 'Registra a instalação dos órgãos de controle interno do partido, com a designação de seus membros e a aprovação de suas normas de funcionamento.',
+    integra: [
+      'Aos dezesseis dias do mês de fevereiro de dois mil e vinte e seis, o Diretório Nacional instalou o Conselho Fiscal Nacional e o Conselho de Ética e Disciplina, órgãos de controle previstos nos Arts. 30 e 31 do Estatuto.',
+      'O Conselho Fiscal Nacional examinará a movimentação financeira e patrimonial do partido, emitindo pareceres periódicos sobre as contas.',
+      'O Conselho de Ética e Disciplina apreciará representações internas, assegurados o contraditório, a ampla defesa, a imparcialidade e a decisão fundamentada.',
+    ],
+  },
+  {
+    id: 'edt-005',
+    tipo: 'EDITAL',
+    numero: 'EDITAL Nº 005/2026',
+    data: '9 de março de 2026',
+    orgao: 'Comissão Executiva Nacional',
+    titulo: 'Convocação para filiação partidária',
+    resumo: 'Convoca os cidadãos do Legado interessados em integrar o PRONA, informando os requisitos de filiação previstos nos Arts. 38 a 40 do Estatuto.',
+    integra: [
+      'A Comissão Executiva Nacional do PRONA torna pública a abertura do processo de filiação partidária a todos os cidadãos do Legado que se identifiquem com o programa e com o Estatuto do partido.',
+      'A filiação é individual e voluntária, condicionada ao atendimento dos requisitos legais: estar em pleno gozo dos direitos políticos e aceitar o Programa e o Estatuto do partido (Arts. 38 a 40).',
+      'Os pedidos de filiação deverão ser apresentados ao órgão competente, em formulário próprio, com observância dos procedimentos de registro e comunicação (Art. 39).',
+    ],
+  },
+  {
+    id: 'del-006',
+    tipo: 'DELIBERAÇÃO',
+    numero: 'DELIBERAÇÃO Nº 006/2026',
+    data: '27 de outubro de 2026',
+    orgao: 'Diretório Nacional',
+    titulo: 'Aprovação do Programa de Governo para as eleições do Legado',
+    resumo: 'Aprova o Programa de Governo do PRONA para o pleito do Legado, organizado em oito eixos temáticos, e autoriza sua divulgação oficial aos filiados e à sociedade.',
+    integra: [
+      'O Diretório Nacional do PRONA, reunido em sessão ordinária, deliberou aprovar o Programa de Governo do partido para as eleições do Legado, estruturado em oito eixos: Educação e Ciência; Economia, Indústria e Trabalho; Saúde; Segurança e Ordem; Infraestrutura; Meio Ambiente; Administração Pública; e Cultura e Cidadania.',
+      'O programa tem como fundamento os princípios do Art. 6º do Estatuto: soberania nacional, independência econômica e tecnológica, valorização do trabalho, educação e transparência administrativa.',
+      'Fica a Comissão Executiva Nacional autorizada a promover a ampla divulgação do programa por todos os canais oficiais do partido, na forma dos Arts. 65 e 66 do Estatuto.',
+    ],
+  },
+];
+
+export const TIPOS_DOC = ['TODOS', 'ATA', 'DELIBERAÇÃO', 'EDITAL'];
